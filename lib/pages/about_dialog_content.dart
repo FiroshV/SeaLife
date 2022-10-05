@@ -27,7 +27,7 @@ class AboutDialogContent extends StatelessWidget {
                 style: TextStyle(
                     color: Theme.of(context).colorScheme.primary,
                     fontWeight: FontWeight.bold),
-                recognizer: TapGestureRecognizer()..onTap = () => handleTap(''),
+                recognizer: TapGestureRecognizer()..onTap = () => handleTap('https://github.com/FiroshV/SeaLife'),
               ),
               const TextSpan(
                 text: '.',
