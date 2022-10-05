@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">SeaLife Privacy Policy</h1>
+# SeaLife Privacy Policy
 
 <p align="center">
  <img width="100" alt="SeaLife-logo" src="https://github.com/FiroshV/SeaLife/blob/main/assets/icon/icon.png">
